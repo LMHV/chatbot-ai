@@ -1,0 +1,31 @@
+{
+    "contenido": [
+        {
+            "tag": "saludo",
+            "patrones": [ "hola", "un saludo!", "hello", "como estas?", "que onda?", "hola chatbot", "buenas", "buenos dias", "buenas tardes", "buenas noches", "que gusto verte", "tanto tiempo chatbot", "tanto tiempo", "como estas?", "como te va?" ],
+            "respuestas": [ "Hola, que tal?", "Como te va?", "Un gusto verte", "Que tal tu dia?", "Venis por unas clases de Python?", "Aca estoy para ayudarte", "Buenas! Como estas?", "Hace dias estoy esperandote", "Tanto tiempo, amigo.", "Hola, soy chatbot especialidazo para ayudarte.", "Como estas?", "Que tal?", "Como te va?", " Que has hecho ultimamente?", "Que hay de nuevo?", "Que cuentas?" ]
+        },
+        {
+            "tag": "despedida",
+            "patrones": [ "adios", "hasta la proxima", "nos vemos", "hasta luego", "Chau chatbot" ],
+            "respuestas": [ "Cuidate", "Nos vemos pronto", "Te estare esperando", "Hasta pronto", " Hasta siempre", "Te veo luego", "Nos estamos viendo...", "Saludos a tu familia" ]
+        },
+        {
+            "tag": "suerte",
+            "patrones": [ "he estado un poco mal", "no me he sentido bien", "me siento mal" ],
+            "respuestas": [ "Que te mejores pronto!", "Espero que te recuperes pronto", "Te deseo una pronta recuperacion", "Que tengas suerte!", "Buena suerte, que te recuperes!" ]
+        },
+        {
+            "tag": "felicitaciones",
+            "patrones": [ "he aprobado una materia", "me fue bien en tal cosa", "Rendi una materia y aprobe", "estoy a punto de recibirme", "me quedan muy pocas materias para recibirme" ],
+            "respuestas": [ "Felicitaciones", "Muy bien!", "Excelente", "Que bien!!", "Buen trabajo" ]
+        },
+        {
+            "tag": "presentacion",
+            "patrones": [ "quien sos?", "sos un bot?", " de que estas hecho?", "sos una persona?" ],
+            "respuestas": [ "Soy algo mas alla que un bot, soy una inteligencia artificial que maneja todo lo que esta a tu alrededor", "Me llamo Chimichanga, soy un chatbot o eso es lo que les hago pensar" ]
+        }
+
+    ]
+}
+ 
